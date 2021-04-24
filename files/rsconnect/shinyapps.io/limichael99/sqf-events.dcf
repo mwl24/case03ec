@@ -1,0 +1,12 @@
+name: sqf-events
+title: sql-events
+username:
+account: limichael99
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4025356
+bundleId: 4514663
+url: https://limichael99.shinyapps.io/sqf-events/
+when: 1619294636.8236
+asMultiple: FALSE
+asStatic: FALSE
